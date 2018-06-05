@@ -42,15 +42,10 @@
                 "type": "string",
                 "description": "a link to the next page of responses"
               }
-            },
-            "schema": {
-              "$ref": "#/definitions/Pets"
             }
           },
           "default": {
-            "description": "unexpected error",
-            "schema": {
-            }
+            "description": "unexpected error"
           }
         }
       }
