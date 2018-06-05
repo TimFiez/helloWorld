@@ -26,14 +26,6 @@
         "tags": [
           "pets"
         ],
-        "parameters": [
-          {
-            "name": "limit",
-            "required": true,
-            "type": "integer",
-            "format": "int32"
-          }
-        ],
         "responses": {
           "200": {
             "description": "a paged array of pets",
