@@ -18,29 +18,5 @@
   ],
   "produces": [
     "application/json"
-  ],
-  "paths": {
-    "/pets": {
-      "get": {
-        "summary": "list all pets",
-        "tags": [
-          "pets"
-        ],
-        "responses": {
-          "200": {
-            "description": "a paged array of pets",
-            "headers": {
-              "x-next": {
-                "type": "string",
-                "description": "a link to the next page of responses"
-              }
-            }
-          },
-          "default": {
-            "description": "unexpected error"
-          }
-        }
-      }
-    }
-  }
+  ]
 }
