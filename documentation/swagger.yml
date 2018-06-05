@@ -20,7 +20,7 @@ paths:
   /stuff:
     get:
       summary: gets stuff
-      operationId:
+      operationId: stuff operation
       parameters:
         - in: path
           name: stuffId
