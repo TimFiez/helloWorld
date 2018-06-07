@@ -21,22 +21,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="swagger.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="swagger.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/documentation/swagger.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="300">
+              <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="swagger.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/documentation/swagger.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="8" lean-forward="true" selection-end-line="34" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/documentation/swagger.yml" />
         <option value="$PROJECT_DIR$/documentation/swagger.json" />
+        <option value="$PROJECT_DIR$/documentation/swagger.yml" />
       </list>
     </option>
   </component>
@@ -52,9 +64,10 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="76" />
     <option name="y" value="28" />
-    <option name="width" value="772" />
-    <option name="height" value="812" />
+    <option name="width" value="1391" />
+    <option name="height" value="842" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -123,31 +136,68 @@
       <option name="presentableId" value="Default" />
       <updated>1528231646174</updated>
       <workItem from="1528231650384" duration="408000" />
-      <workItem from="1528232954858" duration="4448000" />
+      <workItem from="1528232954858" duration="6406000" />
     </task>
+    <task id="LOCAL-00001" summary="updated swagger file">
+      <created>1528239951182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528239951182</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated swagger file to fix schema ref error">
+      <created>1528240088475</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1528240088475</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated swagger file to fix schema ref error">
+      <created>1528240436571</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1528240436571</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added swagger as yml -- seems better">
+      <created>1528240941263</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1528240941263</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added swagger as yml -- seems better">
+      <created>1528241085321</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1528241085321</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4856000" />
+    <option name="totallyTimeSpent" value="6814000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="76" y="28" width="772" height="812" extended-state="0" />
+    <frame x="76" y="28" width="1391" height="842" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32921812" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32124352" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.178289" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -170,6 +220,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated swagger file" />
+    <MESSAGE value="updated swagger file to fix schema ref error" />
+    <MESSAGE value="added swagger as yml -- seems better" />
+    <option name="LAST_COMMIT_MESSAGE" value="added swagger as yml -- seems better" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -177,9 +233,6 @@
           <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/swagger.yml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -190,8 +243,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/documentation/swagger.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="300">
+          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/swagger.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" lean-forward="true" selection-end-line="34" />
         </state>
       </provider>
     </entry>
